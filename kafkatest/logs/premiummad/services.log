@@ -1,0 +1,14 @@
+2018-01-26 16:12:46.206 [qtp818493590-138] DEBUG premiummad - UserId:null, xform:null, contentType:null
+2018-01-26 16:12:46.239 [qtp818493590-138] DEBUG premiummad - Begin Controller: ResponseDto com.madhouse.platform.premiummad.controller.DefaultController.handle(HttpServletRequest) with parameters of ()
+2018-01-26 16:12:46.257 [qtp818493590-138] DEBUG premiummad - Client launches an invalid request with url: http://localhost:8082/error?category=3
+2018-01-26 16:12:46.259 [qtp818493590-138] DEBUG premiummad - {31008 : 此接口不存在，请输入一个正确的URL}, with data(0)
+2018-01-26 16:12:46.589 [qtp818493590-138] DEBUG premiummad - remote addr: 0:0:0:0:0:0:0:1
+2018-01-26 16:12:46.589 [qtp818493590-138] DEBUG premiummad - http://localhost:8082/services/media/list  425ms
+
+2018-01-26 16:13:01.536 [qtp818493590-67] DEBUG premiummad - UserId:null, xform:null, contentType:null
+2018-01-26 16:13:01.536 [qtp818493590-67] DEBUG premiummad - Begin Controller: ResponseDto com.madhouse.platform.premiummad.controller.DefaultController.handle(HttpServletRequest) with parameters of ()
+2018-01-26 16:13:01.536 [qtp818493590-67] DEBUG premiummad - Client launches an invalid request with url: http://localhost:8082/error
+2018-01-26 16:13:01.536 [qtp818493590-67] DEBUG premiummad - {31008 : 此接口不存在，请输入一个正确的URL}, with data(0)
+2018-01-26 16:13:01.541 [qtp818493590-67] DEBUG premiummad - remote addr: 0:0:0:0:0:0:0:1
+2018-01-26 16:13:01.541 [qtp818493590-67] DEBUG premiummad - http://localhost:8082/services/media  8ms
+
